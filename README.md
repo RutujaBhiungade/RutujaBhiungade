@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Rutuja
 
-
-
-Here are some ideas to get you started:
 Software Tester| Manual + Automation Tester
 💡  I like to explore new tools as well as technologies and test different software applications.
 🎓  I'm currently working as a Software Tester Intern at RSL Solution Pvt.Ltd.
