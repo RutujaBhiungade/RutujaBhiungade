@@ -9,6 +9,6 @@ Software Tester| Manual + Automation Tester
 ✍️  In my free time, I focus on hobbies like Playing Badminton, listenig music.
 
 - 📫 How to reach me: 
-rutujabhiungade177@gmail.com
-
+ (https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)] rutujabhiungade177@gmail.com
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)]
 https://www.linkedin.com/in/rutuja-bhiungade/
