@@ -32,7 +32,6 @@ Software Tester| Manual + Automation Tester
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/296f1c8f-8839-4f10-b50e-1f3666edd680)
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/06c7808b-be56-4bb2-9301-913965f0c8d4)
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/efdd9272-afab-4884-accf-38d7bfdeba77)
-       
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/41bdee41-6372-4381-b050-31097d2a436f)
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/6313fb19-dbc8-407c-9b98-dbf5a524511b)
 
