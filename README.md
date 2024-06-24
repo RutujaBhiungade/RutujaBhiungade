@@ -12,7 +12,15 @@ Software Tester| Manual + Automation Tester
 (https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)] rutujabhiungade177@gmail.com
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)]
 https://www.linkedin.com/in/rutuja-bhiungade/
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/cc42cb1f-a583-4a38-904d-a181d7879a84)
+
 Technical Skiils
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/7c53f79c-5b78-43ce-a929-4499a6783091)
-https://camo.githubusercontent.com/b47952248945b14263abe0c38ff70f6c86849ff258d1ba9ba17139d598e19082/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656c656e69756d2d253433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465
-
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/3d459d53-94f3-46f7-803b-4003e75fdee9)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/03a19861-eb20-4571-9328-e9d380f6abe1)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/f3ec094b-3ac7-47c2-b16a-0752048c0433)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/24f27f89-a7b7-4728-84ab-84e1a64a6943)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/4211d8b8-377c-44c9-bc66-d8f4aed503b5)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/9223cbb2-d9ab-4e55-8fea-4d7aecf053c5)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/6c57b559-573b-4d05-92f2-8dcede8b44e9)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/b8d9445f-a0da-4870-953a-98e6a0de42cc)
