@@ -8,6 +8,12 @@ Software Tester| Manual + Automation Tester
 
 ✍️  In my free time, I focus on hobbies like Playing Badminton, listenig music.
 
+</div>
+<h2 align='center'>  Tech Skills</h2>
+<p align='center'>
+<h3 align='center'> Programming Skills and Tools</h3>
+<div align='center' style="display: flex, width:20px">
+
 - 📫 How to reach me: 
 
                                         Technical Skills
