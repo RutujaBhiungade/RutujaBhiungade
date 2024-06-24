@@ -13,9 +13,8 @@ Software Tester| Manual + Automation Tester
 
 - 📫 How to reach me:
 - 
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)]www.linkedin.com/in/rutuja-bhiungade
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)] (https://www.linkedin.com/in/rutuja-bhiungade)
 
-Update README.md
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)]
 
  <h3 align='center'> Technical Skills </h3>
