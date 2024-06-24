@@ -11,7 +11,13 @@ Software Tester| Manual + Automation Tester
 
 
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
+- 
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/mary-kumari/)
+last month
+
+Update README.md
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Maryguvvala/Maryguvvala)
 
  <h3 align='center'> Technical Skills </h3>
 <div align='center' style="display: flex, width:20px">
