@@ -8,15 +8,13 @@ Software Tester| Manual + Automation Tester
 
 ✍️  In my free time, I focus on hobbies like Playing Badminton, listenig music.
 
-</div>
-<h2 align='center'>  Tech Skills</h2>
-<p align='center'>
-<h3 align='center'> Programming Skills and Tools</h3>
-<div align='center' style="display: flex, width:20px">
+
+
 
 - 📫 How to reach me: 
 
-                                        Technical Skills
+ <h3 align='center'> Technical Skills </h3>
+<div align='center' style="display: flex, width:20px">
 
 
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/7c53f79c-5b78-43ce-a929-4499a6783091)
@@ -29,7 +27,9 @@ Software Tester| Manual + Automation Tester
       ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/6c57b559-573b-4d05-92f2-8dcede8b44e9)
       ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/b8d9445f-a0da-4870-953a-98e6a0de42cc)
       
-                                                Soft Skills
+  <h3 align='center'> Soft Skills</h3>
+<div align='center' style="display: flex, width:20px">
+
 
  ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/b16bb9a5-32d0-4e5d-b06e-aa4e1bf4e820)
 ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/b14c6ff3-95f8-4895-8855-c67c93b01427)
