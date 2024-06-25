@@ -13,7 +13,9 @@ Software Tester| Manual + Automation Tester
 
 - 📫 How to reach me:
 - 
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)] (https://www.linkedin.com/in/rutuja-bhiungade)
+  ](url)](url)](url)![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/7ade6ce6-cc46-4d4f-9e42-b46d32a5bd2e)
+![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/24b488df-b48e-4968-abb9-1b03839598d8)
+
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)]
 
