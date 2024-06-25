@@ -13,6 +13,7 @@ Software Tester| Manual + Automation Tester
 
 - 📫 How to reach me:
 - ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/125caa70-6e6e-4782-b34f-6fd588ec9bd9)
+- 
 
 - 
   flat&logo=github&logoColor=white&color=blue)]
