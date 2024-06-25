@@ -12,12 +12,10 @@ Software Tester| Manual + Automation Tester
 
 
 - 📫 How to reach me:
+- ![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/125caa70-6e6e-4782-b34f-6fd588ec9bd9)
+
 - 
-  ](url)](url)](url)![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/7ade6ce6-cc46-4d4f-9e42-b46d32a5bd2e)
-![image](https://github.com/RutujaBhiungade/RutujaBhiungade/assets/131977595/24b488df-b48e-4968-abb9-1b03839598d8)
-
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)]
+  flat&logo=github&logoColor=white&color=blue)]
 
  <h3 align='center'> Technical Skills </h3>
 <div align='center' style="display: flex, width:20px">
