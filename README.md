@@ -52,7 +52,7 @@
   <div>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maryguvvala&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rutuja &theme=github_dark">
 
 </p>
 <hr>
