@@ -17,8 +17,8 @@
 <h3 align='left'> 🔍 Find me here </h3>
 <div align='left'>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https:www.linkedin.com/in/rutuja-bhiungade)
-[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Maryguvvala/Maryguvvala)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)] (https:www.linkedin.com/in/rutuja-bhiungade)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Maryguvvala/Maryguvvala(https://github.com/RutujaBhiungade))
 
 </div>
 <h2 align='center'>  Tech Skills</h2>
