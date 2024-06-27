@@ -18,8 +18,7 @@
 <div align='left'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https:www.linkedin.com/in/rutuja-bhiungade)
-[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)]
-](https://github.com/RutujaBhiungade/RutujaBhiungade)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/RutujaBhiungade/RutujaBhiungade)
 </div>
 <h2 align='center'>  Tech Skills</h2>
 <p align='center'>
