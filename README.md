@@ -50,6 +50,10 @@
    <img src="https://img.shields.io/badge/Empathy-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
   </div>
   <div>
+  
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rutuja &theme=github_dark">
 
 </p>
 <hr>
